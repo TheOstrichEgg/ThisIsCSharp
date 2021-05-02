@@ -15,7 +15,7 @@ namespace PartialClass
         }
     }
 
-    partial class MyCalss
+    partial class MyClass
     {
         public void Method3()
         {
