@@ -3,6 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Do not need sln and csproj files in this repository
+*.sln
+*.csproj
+
 # User-specific files
 *.rsuser
 *.suo
